@@ -1,3 +1,7 @@
 # cs211-ALPVA
 
-Aayan, Lithik, Parth, Anish, Vince
+Aayan, 
+Likith Cheedela
+Parth Patil
+Anish Prasanna Gopal
+Vince Messina
