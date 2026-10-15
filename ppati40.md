@@ -22,3 +22,11 @@ class Solution {
         }
 return 1 + nthStair(n - 2);    }
 };
+
+
+## Topics I'm Working On
+
+| Topic | Confidence |
+|-------|------------|
+| Pointers | Medium |
+| Recursion | High |
