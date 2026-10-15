@@ -6,6 +6,7 @@
 - **Link to the question article:** (https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 - **My solution:**
 
+```C++
 class Solution {
   public:
     int nthStair(int n) {
@@ -19,4 +20,5 @@ class Solution {
         return 1 + nthStair(n-2);
     }
 };
+```
 
